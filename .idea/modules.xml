@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-conf/cloud-conf.iml" filepath="$PROJECT_DIR$/cloud-conf/cloud-conf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/companyService/companyService.iml" filepath="$PROJECT_DIR$/companyService/companyService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-Server/config-Server.iml" filepath="$PROJECT_DIR$/config-Server/config-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-registy/service-registy.iml" filepath="$PROJECT_DIR$/service-registy/service-registy.iml" />
+    </modules>
+  </component>
+</project>
